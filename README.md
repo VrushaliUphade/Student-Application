@@ -6,4 +6,4 @@ Here I have tried to create a CRUD App using HTML , JavaScript and Bootstrap Tec
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [STUDENT APPLICATION](https://github.com/VrushaliUphade/Student-Application/blob/master/index.html)                             | [Live Demo](https://vrushaliuphade.github.io/VrushaliUphade/Student-Application/blob/master/index.html)               |
+| 01  | [STUDENT APPLICATION](https://github.com/VrushaliUphade/Student-Application/blob/master/index.html)                             | [Live Demo](https://vrushaliuphade.github.io/VrushaliUphade/Student-Application)               |
